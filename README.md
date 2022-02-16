@@ -5,6 +5,9 @@ that will trigger a notification and warn you that you are in a "hostile zone"
 
 ## Note i only converted this script from qbcore to esx all credits to https://github.com/Ademo93/ for creating the org script
 
+## Preview
+https://streamable.com/vev30g - Note this it with qbcore notifications, now uses esx notifications
+
 # Credits
 - Ademo93 for creating the script  link to qbcore version here https://github.com/Ademo93/qb-territories 
 
